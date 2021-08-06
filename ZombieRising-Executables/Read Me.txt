@@ -1,0 +1,61 @@
+Zombie Rising v.1.0.b
+
+                  .....                                                  
+                 C C  /                                                  
+                /<   /     Te encuentras en una ciudad destruida.   
+ ___ __________/_#__=o     No sabes nada de lo que ha podido suceder.       
+/(- /(\_\________   \      Tu objetivo es conocer la historia y salir    
+\ ) \ )_      \o     \     con vida de Prypiat, ciudad infestada de zombies.  
+/|\ /|\       |'     |                                                   
+              |     _|                                                   
+              /o   __\                                                   
+             / '     |     ¡No les des tu cerebro, camarada!                     
+            / /      |                                                   
+           /_/\______|                                                   
+          (   _(    <                                                    
+           \    \    \                                                   
+            \    \    |    La aventura te espera.
+             \____\____\                          
+             ____\_\__\_\                       
+
+
+***************************
+* Cómo ejecutar el juego: *
+***************************
+
+Windows:
+========
+
+1.- Extrae los archivos del comprimido en una carpeta.
+2.- Ejecuta el archivo ZombieRising.bat
+
+Una consola del sistema se abrirá. Ahora podrás jugar.
+
+
+Linux:
+======
+
+1.- Extrae la carpeta ZombieRising. Lo más cómodo es hacerlo en "Carpeta Personal".
+2.- Abre el terminal.
+3.- Accede a la ruta del archivo. Si la carpeta ZombieRising está en "Carpeta Personal" escribe "cd ZombieRising".
+4.- Una vez estes en el directorio escribe en la consola lo siguiente: "java -jar Zombie.jar".
+
+Cuidado con las mayúsculas.
+
+
+
+*****************
+*     Notas:    *
+*****************
+
+En el caso de que haya algún tipo de problema, prueba a descargar la última versión de Java.
+Es posible descargarlo desde el siguiente link: 
+http://www.oracle.com/technetwork/java/javase/downloads/jdk-7u4-downloads-1591156.html
+
+El juego ha sido programado en Java 7.
+
+
+
+Es una producción de Fancy of the Steady
+
+27/05/2012
