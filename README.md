@@ -1,6 +1,18 @@
 # Zombie-Rising
 Text adventure based on OOP and Java. The game has been written in Spanish language.
 
+## Game Introduction
+
+You are in a destroyed city.
+You don't know anything about what could have happened.
+Your goal is to find out the story and get out of Prypiat, a city infested with zombies.
+                                 
+_Don't give them your brain, comrade!_
+                                           
+**Adventure awaits you.**
+
+
+
 
 ## Folder Structure
 
